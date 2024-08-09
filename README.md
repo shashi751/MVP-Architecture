@@ -17,6 +17,6 @@ View Controller Code
 
 
 
-Output User name list fetched from JSON Placeholder API to show in API
+Display the list of usernames fetched from the JSONPlaceholder API in the view.
 
 ![simulator_screenshot_8D5E8BFB-C330-4494-A569-5A5DDEBE9362](https://github.com/user-attachments/assets/72aed2d3-f9f1-4e36-a5e2-062ef9fb6b17)
