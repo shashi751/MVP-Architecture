@@ -21,15 +21,6 @@ class ViewController: UIViewController {
         self.presenter = Presenter(view: self)
         self.presenter?.fetchUsers()
     }
-    
-    override func viewWillAppear(_ animated: Bool) {
-        super.viewWillAppear(animated)
-        
-        
-        
-        
-    }
-
 
 }
 
